@@ -1,0 +1,6 @@
+{
+  "name": "SyllabusAI",
+  "description": "AI study assistant that extracts syllabus topics, generates roadmaps, ranks YouTube/NPTEL resources, and generates study material, quizzes, and helps solve doubts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
